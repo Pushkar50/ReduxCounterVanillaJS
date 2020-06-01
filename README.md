@@ -1,2 +1,0 @@
-# ReduxCounterVanillaJS
-Created with CodeSandbox
